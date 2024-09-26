@@ -5,6 +5,10 @@
   .MuiTableRow-root.MuiTableRow-head > * {
     font-weight: bold !important;
   }
+
+  .heading_orders{
+    margin-bottom: 15px;
+  }
   
   .Table td,
   th {
